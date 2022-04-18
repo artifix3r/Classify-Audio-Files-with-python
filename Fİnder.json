@@ -1,0 +1,50 @@
+{
+      "1308162216750.wav": {
+            "category": "Extrasystole",
+            "framerate": "4000"
+      },
+      "1308162935880.wav": {
+            "category": "extra heart sound",
+            "framerate": "4000"
+      },
+      "201012172012.wav": {
+            "category": "artifact",
+            "framerate": "44100"
+      },
+      "201012172010.wav": {
+            "category": "artifact",
+            "framerate": "44100"
+      },
+      "201101051105.wav": {
+            "category": "normal",
+            "framerate": "44100"
+      },
+      "201101070953.wav": {
+            "category": "extra heart sound",
+            "framerate": "44100 Hz"
+      },
+      "201101091153.wav": {
+            "category": "murmur",
+            "framerate": "44100 Hz"
+      },
+      "201102052338.wav": {
+            "category": "artifact",
+            "framerate": "44100 Hz"
+      },
+      "201102081321.wav": {
+            "category": "extra heart sound",
+            "framerate": "44100 Hz"
+      },
+      "201102260502.wav": {
+            "category": "Extrasystole",
+            "framerate": "44100 Hz"
+      },
+      "201103291548.wav": {
+            "cateogry": "unlabeled",
+            "framework": "44100 Hz"
+      },
+      "201105040918.wav": {
+            "cateogry": "murmur",
+            "framerate": "44100 Hz"
+      }
+}
